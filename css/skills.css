@@ -1,0 +1,59 @@
+.skills{
+ width: 500px;
+ margin: 60px auto;
+ color: white;
+}
+
+.skills li{
+    margin: 20px 0;
+}
+/*background: #333*/
+.bar{
+    background: #353b48;
+    display: block;
+    height: 10px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #2187e7b3;
+}
+.html{
+    width: 90%;
+    animation: html 2s;
+}
+.css3{
+    width: 50%;
+    animation: css3 2s;
+}
+.sketch{
+    width: 100%;
+    animation: 2s slidein;
+}
+
+@keyframes html{
+    0%{
+        width:0;
+    }
+    100%{
+        width:90%;
+    }
+}
+
+@keyframes css3{
+    0%{
+        width:0;
+    }
+    100%{
+        width:50%;
+    }
+}
+
+
+@keyframes slidein {
+    0%{
+        width:0;
+    }
+    100%{
+        width:50%;
+    }
+  }
