@@ -264,6 +264,11 @@ footer {
         text-align: center;
         margin: auto;
     }
+	.boxes2{
+		 grid-template-areas: 
+	         'boxX' 
+		'boxY' 
+		'boxZ'/*to make the boxes responsive */}
 }
 
 @media(max-width:500px){
@@ -273,6 +278,11 @@ footer {
         'top-box-a'
         'top-box-b'
     }
+	.boxes2{
+		 grid-template-areas: 
+	         'boxX' 
+		'boxY' 
+		'boxZ'/*to make the boxes responsive */}
 }
 
 
