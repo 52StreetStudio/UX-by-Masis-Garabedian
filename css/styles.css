@@ -865,15 +865,11 @@ padding: 0 0 0 2rem;}
     display: block;
    
     margin: 0 auto;
-    padding: 0 5rem 5rem;
+    padding: 3rem 5rem 5rem 7rem;
     
 
     /*max-width: 65em;*/
     
 }
 
-.graphTitle{
-	padding: 3rem 5rem 5rem 7rem;
-    	display: block;
-	justify-content: center;
-}
+
