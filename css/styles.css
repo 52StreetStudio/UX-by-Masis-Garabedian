@@ -862,9 +862,12 @@ padding: 0 0 0 2rem;}
                 width: 100%;
             }
 .inner {
-    Display: block;
-    padding:0;
+    display: block;
+   
     margin: 0 auto;
+    padding: 0 5rem 5rem;
+    
+
     /*max-width: 65em;*/
     
 }
