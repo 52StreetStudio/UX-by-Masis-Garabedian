@@ -863,12 +863,9 @@ padding: 0 0 0 2rem;}
             }
 .inner {
     display: block;
-   
-    margin: 0 auto;
-    padding: 5rem;
+    padding: 0 5rem 5rem;
     
 
-    /*max-width: 65em;*/
     
 }
 
