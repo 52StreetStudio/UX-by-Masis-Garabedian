@@ -871,3 +871,9 @@ padding: 0 0 0 2rem;}
     /*max-width: 65em;*/
     
 }
+
+.graphTitle{
+	padding: 2rem 5rem 5rem 7rem;
+    	display: block;
+	justify-content: center;
+}
