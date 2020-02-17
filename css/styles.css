@@ -863,7 +863,7 @@ padding: 0 0 0 2rem;}
             }
 .inner {
     Display: block;
-    padding: 1.5em;
+    padding:0;
     margin: 0 auto;
     /*max-width: 65em;*/
     width: calc(100% - 1.5em);
