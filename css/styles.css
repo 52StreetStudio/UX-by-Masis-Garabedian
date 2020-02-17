@@ -861,6 +861,7 @@ padding: 0 0 0 2rem;}
                 width: 100%;
             }
 .inner {
+    Display: block;
     padding: 4em 0 2em 0;
     margin: 0 auto;
     max-width: 65em;
