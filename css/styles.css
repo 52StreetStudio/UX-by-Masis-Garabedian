@@ -187,6 +187,7 @@ img {
     /*box-shadow: var(--shadow); */
 	justify-content:center;
     display: block;
+	margin: 0 auto;
 }
 
 .box:hover{
